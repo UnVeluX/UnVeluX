@@ -1,7 +1,5 @@
 # Hey, I'm Milan — aka UnVeluX 👋
 
-> *"Well, at least it didn't crash."*
-
 I'm a French **BTS SIO SISR** student (systems & networks) based near Nantes, currently on a mission to become the person everyone calls when something breaks — preferably before it breaks.
 
 My goal: land a role in **sysadmin, infrastructure, or network administration**.
