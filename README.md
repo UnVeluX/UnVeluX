@@ -9,10 +9,10 @@ My goal: land a role in **sysadmin, infrastructure, or network administration**.
 ## 🧰 What I Actually Know How To Do
 
 **Infrastructure & Virtualization**
-`Proxmox` · `Docker` · `Kubernetes` · `LXC` · `VMware`
+`Proxmox` · `Docker` · `Kubernetes` · `LXC` · `VMware` . `Micorsoft AD` 
 
 **Linux & Services**
-`Rocky Linux` · `Debian/Ubuntu` · `Apache` · `Nginx` · `MariaDB` · `vsftpd` · `systemd` · `CUPS` · `FreePBX`
+`Rocky Linux` · `Debian/Ubuntu` · `Apache` · `Nginx` · `MariaDB` · `PowerShell` · `vsftpd` · `systemd` · `CUPS` · `FreePBX`
 
 **Networking**
 `VLANs` · `Router-on-a-Stick` · `Inter-VLAN routing` · `DHCP relay` · `Cisco IOS` · `static routing`
